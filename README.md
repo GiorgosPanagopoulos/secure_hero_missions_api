@@ -85,26 +85,6 @@ All 7 tests cover registration, login, token auth, role enforcement, and busines
 
 ---
 
-## 📸 Screenshots
-
-### Swagger UI Overview
-
-![Swagger Overview](screenshots/swagger-overview.png)
-
-### Missions Endpoints
-
-![Swagger Missions](screenshots/swagger-missions.png)
-
-### Register — 201 Created
-
-![Register 201](screenshots/register-201.png)
-
-### Tests Passed
-
-![Tests Passed](screenshots/tests-passed.png)
-
----
-
 ## Future Improvements
 
 - 🐳 **Docker** — containerize for one-command deployment
